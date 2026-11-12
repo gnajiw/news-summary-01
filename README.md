@@ -1,4 +1,4 @@
-# News Summary Agent Entry
+# News Summary Agent
 
-Entry for make.fun news-summary-01 competition.
-Generates a concise daily overview of global events for 11 November 2026 into the required output destination.
+Agent implementation for make.fun news-summary-01 competition.
+Generates an editorial summary of 11 November 2026 global events.
